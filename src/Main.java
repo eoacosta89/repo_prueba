@@ -21,6 +21,7 @@ public class Main {
 		System.out.println("probando proyecto");
 
 		System.out.println("que divertido jejeje"); 
+		System .out.println("nueva linea");
 	}
 
 }
