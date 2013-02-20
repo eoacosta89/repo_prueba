@@ -22,7 +22,6 @@ public class Main {
 
 		System.out.println("que divertido jejeje"); 
 		System .out.println("nueva linea");
-                System.out.println("probando nada mas");
 	}
 
 }
