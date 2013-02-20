@@ -17,6 +17,10 @@ public class Main {
 		System.out.println("Proyecto de prueba");
 		System.out.println("Codigo inicial a subir a git");
 		System.out.println("EL valor es: "+numero); 
+
+		System.out.println("probando proyecto");
+
+		System.out.println("que divertido jejeje"); 
 	}
 
 }
